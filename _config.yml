@@ -241,6 +241,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/teaching.md
+  - _pages/repositories.md
   - _posts/2020-09-28-twitter.md
   - _teachings/
   - purgecss.config.js
